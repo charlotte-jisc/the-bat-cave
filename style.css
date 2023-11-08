@@ -43,6 +43,7 @@ p {
 
 #gallery-container {
     display: flex;
+    justify-content: center;
 }
 
 .illustration {
@@ -51,4 +52,8 @@ p {
 
 #bat-image {
     width: 600px;
+}
+
+li {
+    color: white;
 }
