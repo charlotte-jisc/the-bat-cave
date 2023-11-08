@@ -1,8 +1,9 @@
 body {
-    background-color: #121212;
+    background-color: black;
     color: #FFFFFF;
     font-family:Arial, Helvetica, sans-serif;
     text-align: center;
+    font-size: 24px;
 }
 
 a {
@@ -12,9 +13,10 @@ a:visited {
     color: #C58AF9;
 }
 
-#navigation {
+.navigation {
     display: flex;
     flex-direction: row;
+    justify-content: center;
 }
 
 ul {
@@ -47,3 +49,6 @@ p {
     width: 600px;
 }
 
+#bat-image {
+    width: 600px;
+}
