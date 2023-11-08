@@ -32,3 +32,12 @@ p {
     margin-left: 300px;
     margin-right: 300px;
 }
+
+.gallery {
+    width: 400px;
+}
+
+#gallery-container {
+    display: flex;
+    
+}
