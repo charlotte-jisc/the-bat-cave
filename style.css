@@ -2,6 +2,7 @@ body {
     background-color: #121212;
     color: #FFFFFF;
     font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
 }
 
 a {
@@ -35,9 +36,14 @@ p {
 
 .gallery {
     width: 400px;
+    margin: 50px;
 }
 
 #gallery-container {
     display: flex;
-    
 }
+
+.illustration {
+    width: 600px;
+}
+
