@@ -1,7 +1,14 @@
 body {
-    background-color: black;
-    color: white;
+    background-color: #121212;
+    color: #FFFFFF;
     font-family:Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: #8AB4F8;
+}
+a:visited {
+    color: #C58AF9;
 }
 
 #navigation {
